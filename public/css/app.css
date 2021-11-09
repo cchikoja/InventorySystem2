@@ -1,0 +1,37 @@
+.btn-primary{
+    background-color: darkslateblue;
+    border: solid 1px darkslateblue !important;
+}
+
+.blue-line{
+    color: darkorange;
+    background-color: darkorange;
+    padding: 1px;
+    border-radius: 3px;
+}
+
+.blue-text{
+    color: darkslateblue;
+}
+
+.wrapper{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.button{
+    font-family: Nunito !important;
+}
+
+.active{
+    color: darkslateblue !important;
+    border-radius: 3px;
+    font-weight: bold;
+}
+.dt-btn{
+    padding: 4px 10px;
+    font-size: 11px !important;
+    margin-right: 10px;
+    border-radius: 0;
+    background-color: darkorange;
+    border: none;
+}
